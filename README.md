@@ -88,6 +88,19 @@ Optional Output:
 - `fail.txt` – ❌ Wallets that failed
 
 ---
+## 💰 Check ETH Balances
+
+Use `check-balance.py` to verify wallet balances:
+
+```bash
+python check-balance.py
+```
+
+📤 Outputs:
+- `has_balance.txt` – Wallets that received A0GI
+- `no_balance.txt` – Wallets with 0 balance
+
+---
 
 ## 🧪 How It Works
 
