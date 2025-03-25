@@ -1,2 +1,1 @@
-wallet-address-1
-wallet-address-2
+0xF8e8EF187f1bFFfeE869c6422465CEc0C1667c8C
